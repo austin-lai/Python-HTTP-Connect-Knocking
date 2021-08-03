@@ -21,6 +21,27 @@ Using python library:
 
 <!-- /Description -->
 
+## Detail of script usage
+
+Script require you to have a Starting Number = 0, to perform calculation.
+
+The script is use to create HTTP request to webserver with given default port (example 3010).
+
+Then in the response, it will give the instruction as shown below:
+
+```text
+multiply        1         6783
+operation     number      port
+```
+
+You will have to do calculation and store it in script by using your Starting Number {Operation given} {Number given}
+
+Then create HTTP request and connect to the port given.
+
+Repetition of above till it hit specific port (example port 9765) and you will get the final number base on the calculation.
+
+--- Ideally, the calculation should start when the LivePort (example 1337) is alive !
+
 <br />
 
 ---
