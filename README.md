@@ -6,11 +6,18 @@
 
 <!-- Description -->
 
-Python HTTP Connect Knocking
+Python HTTP Request Connect script, Knocking Port to get next port and instruction.
 
 Created for one of TryHackMe Room.
 
-Using python 
+Using python library:
+
+- re
+- socket
+- requests
+- urllib
+
+**Please check out the full script [_here_](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-HackBack%202019/python-http-connect.py)**
 
 <!-- /Description -->
 
