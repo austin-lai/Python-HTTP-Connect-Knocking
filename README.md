@@ -1,4 +1,4 @@
-# Python-HTTP-Connect-Knocking
+# Python Simple HTTP Connect Knocking
 
 > Austin Lai | August 3rd, 2021
 
