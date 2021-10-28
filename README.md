@@ -6,7 +6,7 @@
 
 <!-- Description -->
 
-Python HTTP Request Connect script, Knocking Port to get next port and instruction.
+Python Simple HTTP Request Connect script, Knocking Port to get next port and instruction.
 
 Created for one of TryHackMe Room.
 
